@@ -1,0 +1,17 @@
+{
+  "name": "0x00-Es6_basic",
+  "version": "1.0.0",
+  "description": "0x00",
+  "main": "0-constants.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.9",
+    "@babel/preset-env": "^7.24.8",
+    "babel-jest": "^29.7.0"
+  }
+}
